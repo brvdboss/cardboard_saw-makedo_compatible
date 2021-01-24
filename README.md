@@ -13,3 +13,6 @@ I wanted to edit this in OpenSCAD and used this STL to OpenSCAD converter to be 
 I noticed the grip was just to big for my son and he was putting his fingers through the holes. However that didn't fit perfectly. So redesigned the handle to allow and easier grip (with fingers through the center of the handle).
 
 In addition added a tiny chamfer to the saw blade to get the cut to start just a little bit easier.
+
+## Other publications
+Also published on thingiverse: https://www.thingiverse.com/thing:4736367
